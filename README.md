@@ -68,6 +68,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [serverless-cqrs](https://www.serverless-cqrs.com) - A collection tools to help you build a fully functioning backend based on the principles of CQRS, Event Sourcing, Domain Driven Design, and Onion Architecture.
 * [ops](https://ops.city) - A free open source tool that allows anyone to build, run and deploy normal linux applications as unikernels.
 * [codehooks.io](https://codehooks.io) - A modern, lightweight serverless backend platform tailored for building data-powered APIs fast using JavaScript/TypeScript and NoSQL. Free plan.
+* [HyperAgency](https://github.com/vuics/h9y) - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
 
 ## Hosting and code execution in the cloud
 
